@@ -264,13 +264,14 @@ footer a img {
     display: inline;
 }
 
-a:hover,
+
+/* a:hover,
 img:hover {
     text-decoration: underline;
     transform: scale(1.1);
     cursor: pointer;
     opacity: 1;
-}
+} */
 
 .facebook {
     display: flex;
@@ -358,21 +359,6 @@ i:active {
         max-width: 100%;
     }
 }
-
-
-/*=========== MOBILE VIEW ==========*/
-
-
-/*=========== MOBILE VIEW ==========*/
-
-
-/*=========== MOBILE VIEW ==========*/
-
-
-/*=========== MOBILE VIEW ==========*/
-
-
-/*=========== MOBILE VIEW ==========*/
 
 @media (max-width:500px) {
     .flex {
